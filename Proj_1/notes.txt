@@ -1,0 +1,21 @@
+YouTube Video
+
+title: JavaScript - Create A Deck Of Cards 
+date: 4/19/2020
+url: https://www.youtube.com/watch?v=LxXWTXOny3A&list=PLBx8Eyw3km2mHEl7-Q-bqTmYcaslqLNST&index=1&t=3s
+
+
+4 suits to a deck 
+    13 ranks per suit 
+        making a total of 52 cards 
+
+- initial thoughts
+    create one loop to go through the suites 
+        and another to go through the ranks 
+            but first we need variables 
+- tell computer all of the suites and ranks that exist 
+
+- could write every card within another array out by hand
+    but lets just use a for loop
+
+- nest the rank loop
